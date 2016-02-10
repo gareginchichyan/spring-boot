@@ -1,6 +1,8 @@
 package am.gch.controller;
 
 import am.gch.domain.*;
+import am.gch.repository.*;
+import am.gch.service.*;
 import am.gch.service.*;
 import org.springframework.beans.factory.annotation.*;
 import org.springframework.web.bind.annotation.*;
