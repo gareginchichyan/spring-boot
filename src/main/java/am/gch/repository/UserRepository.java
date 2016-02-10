@@ -1,9 +1,7 @@
 package am.gch.repository;
 
 import am.gch.domain.*;
-import org.springframework.data.domain.*;
 import org.springframework.data.repository.*;
-
 import java.util.*;
 
 /**
