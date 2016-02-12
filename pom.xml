@@ -40,6 +40,7 @@
 			<artifactId>mysql-connector-java</artifactId>
 		</dependency>
 
+		<!-- in case of embedded tomcat to render jsp-->
 		<dependency>
 			<groupId>org.apache.tomcat.embed</groupId>
 			<artifactId>tomcat-embed-jasper</artifactId>
